@@ -1,3 +1,3 @@
 # dynamic-language-task
 
-test
+test /2
